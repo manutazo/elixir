@@ -1,2 +1,2 @@
 e = 40 + 223
-IO.puts "Hello world from " <> "e"
+IO.puts "This is a integer converted to string: " <> Integer.to_string(e)
